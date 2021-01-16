@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"_/osg-ntq-ubl/hsbe.world/main.json#start"
+                 "value":"../hsbe.world/main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
