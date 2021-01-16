@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start"
+                 "value":"https://hsbe.world/main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
